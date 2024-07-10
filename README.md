@@ -8,15 +8,11 @@ A brief description of what this project does and who it's for.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/AyushmanTomar/Captions.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repo-name
-    ```
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
+    cd Captions
     ```
 
 ## Usage
