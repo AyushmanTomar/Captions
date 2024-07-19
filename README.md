@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of what this project does and who it's for.
+Captions is a deep learning project that is made using tensorflow api to give images a caption. It is made using encoder decoder mechanism implementing CNN-RNN Architecture.
 
 ## Link for dataset: https://www.kaggle.com/datasets/aladdinpersson/flickr8kimagescaptions
 
